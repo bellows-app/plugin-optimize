@@ -1,3 +1,3 @@
-# plugin-optimize
+# Bellows Optimize Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/optimize](https://bellows.dev/docs/plugins/optimize)
